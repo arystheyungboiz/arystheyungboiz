@@ -5,7 +5,7 @@
 - <a href="https://vhu.edu.vn" target="_blank"><img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-DH-Van-Hien-VHU-1024x1024.png" alt="vanhien" width="20" height="20"/></a> Studying in Van Hien University
 - 🗺 Living in Ho Chi Minh City, Vietnam
 - 🎮 Game Developer
-- <a href="https://discord.com/users/360753595676622848" target="_blank"><img src="https://img.shields.io/badge/Discord-Hào%236665-007ACC?&style=flat-square&logo=discord&logoColor=white" alt="Codeforce" title="Hào#6665"></a>
+- <a href="https://discord.com/users/360753595676622848" target="_blank"><img src="https://img.shields.io/badge/Discord-Hào%236665-007ACC?&style=flat-square&logo=discord&logoColor=white" alt="disc" title="Hào#6665"></a>
 
 <h3 align="left">Socials media:</h3>
 <p align="left">
@@ -24,4 +24,5 @@
 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arystheyungboiz&count_private=true&langs_count=8&layout=compact&card_width=245&theme=radical)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=arystheyungboiz&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
