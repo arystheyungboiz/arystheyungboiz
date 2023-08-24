@@ -23,4 +23,5 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arystheyungboiz&count_private=true&langs_count=8&layout=compact&card_width=245&theme=radical) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arystheyungboiz&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arystheyungboiz&count_private=true&langs_count=8&layout=compact&card_width=245&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=arystheyungboiz&custom_title=My%20Github%20Stats&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
