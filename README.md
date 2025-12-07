@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arystheyungboiz&label=Profile%20views&color=ac205d&style=flat" alt="arystheyungboiz"/></p>
 
-- <a href="https://vhu.edu.vn" target="_blank"><img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-DH-Van-Hien-VHU-1024x1024.png" alt="vanhien" width="20" height="20"/></a> Studying in Van Hien University
+- <a href="https://vhu.edu.vn" target="_blank"><img src="https://cdn.haitrieu.com/wp-content/uploads/2021/10/Logo-DH-Van-Hien-VHU-1024x1024.png" alt="vanhien" width="20" height="20"/></a> Studying at Van Hien University
 - 🗺 Living in Ho Chi Minh City, Vietnam
 - 🎮 Noob at Game Developer
 - <a href="https://discord.com/users/360753595676622848" target="_blank"><img src="https://img.shields.io/badge/Discord-Hào%236665-007ACC?&style=flat-square&logo=discord&logoColor=white" alt="disc" title="Hào#6665"></a>
